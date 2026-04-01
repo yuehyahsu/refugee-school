@@ -1,6 +1,9 @@
 # WhatsApp source materials (not for public site)
 whatsapp/
 
+# Claude context (not for public site)
+CLAUDE.md
+
 # OS files
 .DS_Store
 Thumbs.db
