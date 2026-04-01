@@ -1,0 +1,6 @@
+# WhatsApp source materials (not for public site)
+whatsapp/
+
+# OS files
+.DS_Store
+Thumbs.db
